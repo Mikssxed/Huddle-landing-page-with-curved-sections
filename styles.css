@@ -395,10 +395,10 @@ input:hover {
         order: -1;
     }
     #topbg1 {
-        height: 100px;
+        height: 120px;
     }
     #botbg1 {
-        height: 100px;
+        height: 120px;
     }
     h3 {
         font-size: 2rem;
@@ -425,10 +425,10 @@ input:hover {
         order: -1;
     }
     #topbg3 {
-        height: 100px;
+        height: 120px;
     }
     #botbg3 {
-        height: 100px;
+        height: 120px;
     }
     #last {
         text-align: center;
@@ -437,7 +437,7 @@ input:hover {
         font-size: 1.5rem;
     }
     #footerbg {
-        height: 100px;
+        height: 120px;
     }
     footer {
         height: auto;
